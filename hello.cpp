@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "hello world!!" << endl;
-    cout << "second time" << endl;
+    cout << "hello fucking world!!" << endl;
     return 0;
 }
